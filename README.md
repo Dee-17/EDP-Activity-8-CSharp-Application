@@ -1,4 +1,4 @@
-# EDP-Activity-7
+# EDP-Activity-8
   Daniela M. Cantillo / BSIT 3A
 
 ## About the Activity
